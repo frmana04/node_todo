@@ -12,7 +12,9 @@ Commands:
   
 
 Options:
+
   --version  Show version number           [boolean]
+  
   
   --help     Show help    
 
