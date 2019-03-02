@@ -5,20 +5,20 @@ App to manage task to do using commands prompt and external JSON file to save da
 Commands:
 
 
-  app create  Create an element to do
+  app create  -->Create an element to do
   
-  app update  Update the completed state of a task
+  app update  -->Update the completed state of a task
   
-  app delete  Delete an element to do
+  app delete  -->Delete an element to do
   
 
 Options:
 
 
-  --version  Show version number           [boolean]
+  --version  -->Show version number        
   
   
-  --help     Show help    
+  --help     -->Show help    
 
 
 
