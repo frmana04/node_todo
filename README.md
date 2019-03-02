@@ -1,5 +1,5 @@
 # node_todo
-App to manage task to do using commands prompt and external JSON file to save data
+App to manage task to do using commands prompt and external JSON file to save data using NodeJS
 
 
 ## Create a task
