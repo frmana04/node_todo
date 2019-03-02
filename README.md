@@ -49,4 +49,3 @@ node app update -u "Name of an existing task" -c true
 node app delete --del "Name of an existing task to delete" 
 ```
 
-                                             [boolean]
